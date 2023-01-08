@@ -1,0 +1,10 @@
+ders5.jar çalışan dosyadır hocam 
+
+java -jar ders5.jar ders.txt	(giris.txt de yazılabilir) yazılarak sonuç alınmaktadır
+
+okuma arg fonksiyonu ile yapılmıştır 
+
+eclipste renkler çalışmaktadır(ekran fotoğraflarını ekledim)
+
+teşekkürler hocam
+
